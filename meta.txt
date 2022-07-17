@@ -1,0 +1,5 @@
+Name         = Melvin's Enhanced Staircases
+Version      = 0.1
+Credits      = Melvin
+Essentials   = 20.1
+Link         = https://github.com/mewitte/staircases
